@@ -1,0 +1,7 @@
+{
+  "name": "prisma-generated",
+  "private": true,
+  "type": "module",
+  "main": "./client.ts",
+  "types": "./client.ts"
+}

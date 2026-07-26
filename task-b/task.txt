@@ -1,0 +1,10 @@
+Take LeadDesk Mini from Task A and make it something you would let a client touch.
+a) Add real login for the admin area - not a hardcoded string - with sessions or tokens handled properly.
+b) Deploy the whole thing on a free tier and confirm it works from a fresh browser with no local state.
+c) Write a README explaining your data model and your auth approach, and record a Loom walking the flow from form
+submission to status change.
+Deliverables
+• Deployed URLs + test credentials
+• README
+• Loom walkthrough
+Estimated effort: 2-3 hours
