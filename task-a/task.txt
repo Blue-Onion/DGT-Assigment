@@ -1,0 +1,14 @@
+ROLE 04 / 16
+Full Stack Development
+What this tests: The complete loop: frontend, backend, data model, auth, and deployment of one coherent product.
+TASK A - Build LeadDesk Mini
+Build a small lead-capture product with a public side and an admin side.
+a) Public landing page with a lead form - name, email, budget range, message - with client-side and server-side
+validation.
+b) Store submissions in a real database (Postgres, MySQL, MongoDB, SQLite, Supabase, Firebase - your choice).
+c) Admin view at /admin listing all leads with search and a status toggle: New / Contacted / Closed.
+Deliverables
+• Live landing page URL
+• Admin URL
+• Public GitHub repo
+Estimated effort: 3-4 hours
